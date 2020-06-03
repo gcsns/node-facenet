@@ -36,7 +36,7 @@
     "@types/gm": "^1.17.31",
     "@types/mkdirp": "^0.5.1",
     "@types/numjs": "^0.14.0",
-    "@types/printf": "^0.2.0",
+    "@types/printf": "^0.3.1",
     "@types/rimraf": "^2.0.2",
     "@types/tape": "^4.2.30",
     "@types/tar": "^4.0.0",
